@@ -1,5 +1,12 @@
 export default [
    {
+     name: 'qsy',
+     desc: '道阻且长 行则将至',
+     link: 'http://hexp.top',
+     thumbnail: 'http://hexp.top/thumbnail.png',
+     avator: 'http://hexp.top/logo.png'
+   },
+   {
     thumbnail: "https://avatars.githubusercontent.com/u/87223862?v=4",
     link: "https://zzh.4everland.website/",
     avator: "https://vue3-xiao-admin.4everland.app/static/png/logo-22eeabbe.png"
